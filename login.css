@@ -1,5 +1,5 @@
 body{
-	background-color: gray;
+	background-color: aquamarine;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -48,7 +48,7 @@ button{
     width: 30px;
 	border: none;
 	height: 25px;  
-	background-color: grey; 
+	background-color: rgba(128, 128, 128, 0); 
 }
 #boxcontrasena{
 	display: flex;
