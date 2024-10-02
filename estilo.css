@@ -1,3 +1,7 @@
+*{
+    margin: 0%;
+}
+
 #boxfoto{
     display: flex;
     flex-direction: column;
@@ -37,5 +41,29 @@ button{
 #boxpublicacion{
     width: 90%;
     display: flex;
+}
+ul{
+	display: flex;
+	flex-direction: row;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
+header{
+    text-align: center;
+    background-color: aquamarine;
+    box-shadow: -2px 14px 8px -5px rgba(0,0,0,0.5);
+    -webkit-box-shadow: -2px 14px 8px -5px rgba(0,0,0,0.5);
+    -moz-box-shadow: -2px 14px 8px -5px rgba(0,0,0,0.5);
+}
+nav{
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
 }
 

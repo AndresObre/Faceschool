@@ -69,3 +69,8 @@ const vercontrasena2 = () => {
     }
 }
 
+const fotos = [
+    {usuario: "", imgusuario: "", imagen:"", megustas:"", comentario:""},
+    {usuario: "", imgusuario: "", imagen:"", megustas:"", comentario:""},
+]
+
